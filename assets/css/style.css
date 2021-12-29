@@ -247,7 +247,6 @@ footer {
 #photos > img {
     width: 100%;
 }
-
 /* Media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
@@ -331,6 +330,10 @@ footer {
     #photos {
         column-count: 2;
 }
+
+
+
+
 
 
 
