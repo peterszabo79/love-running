@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-In order to **provide additional thoughts beyond the response options** as a **user**, I can **add a comment before I submit my poll response**
+In order to **receive benefit** as a **role**, I can **goal / desire**
